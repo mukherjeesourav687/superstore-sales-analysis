@@ -18,4 +18,4 @@ Explore the Superstore dataset to understand sales patterns across different pro
 Technology generates the highest sales among all categories.
 
 ## Kaggle Notebook
-[Paste your Kaggle notebook link here]
+https://www.kaggle.com/code/souravmukherjee687/superstore-sales-analysis-eda
